@@ -2,6 +2,6 @@ PROJECT REPOSITORY LINK
 
 Create the online repository in GitHub, GitLab, Google Drive, or the platform required by your instructor, upload the contents of this folder, and paste the shareable repository URL below:
 
-Repository URL: ________________________________________________
+Repository URL: https://github.com/RubenAlvarezDuran/U1A5.-VALIDATION-PLAN-AND-TECHNICAL-LOGBOOK
 
 Suggested repository name: SCARA-ESP32S3-Embedded-System
