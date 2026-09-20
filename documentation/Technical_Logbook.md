@@ -3,9 +3,9 @@
 # Date: September 19, 2026
 
 # Team members:
-Ruben Alvarez Duran
-Samantha Elena Camacho Badillo
-Juan David Castruita Castañeda
+Ruben Alvarez Duran,
+Samantha Elena Camacho Badillo,
+Juan David Castruita Castañeda,
 Angel Daniel Cisneros Perez
 
 # Current project status: 
